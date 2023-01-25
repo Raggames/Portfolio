@@ -9,3 +9,5 @@ Each ability is responsible of implementing its gameplay logic, controlling the 
 The ability is a little gameplay module that can be added to the character.
 
 Abilities are also used by the AI.
+
+The abilities are also supporting a full talent/modifier system that allows the player to modify each ability to fit his gameplay needs.
